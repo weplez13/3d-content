@@ -1,6 +1,6 @@
 import * as THREE from 'three';
 import { GLTFLoader } from 'GLTFLoader';
-
+import { OrbitControls } from 'OrbitControls';
 
 let scene, camera, renderer;
 
