@@ -13,3 +13,6 @@ canvas {
 head{
 cursor: none;
 }
+* {
+  cursor: none;
+}
